@@ -16,7 +16,7 @@ We also report the results on **MOH-X** and **TroFi** in three settings:zero-sho
 
 * You need to download the bert base model--'bert-base-uncased'
 
-  ##Run
+##Run
 
 * Get the data from [here](https://drive.google.com/drive/folders/13_MRmZryGhCf8ngBs57oCMH9KD83ZImu?usp=sharing)
 
