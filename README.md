@@ -1,6 +1,6 @@
 # MrBERT
 
-This is the official code for the ACL 2021 paper:[Verb Metaphor Detection via Contextual Relation Learning](hhh).
+This is the official code for the ACL 2021 paper:[Verb Metaphor Detection via Contextual Relation Learning](https://aclanthology.org/2021.acl-long.327/).
 ## Dataset 
 
 |- | # tokens | # unique sent. | % metaphor|
