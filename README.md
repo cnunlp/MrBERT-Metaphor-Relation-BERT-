@@ -28,4 +28,4 @@ We also report the results on **MOH-X** and **TroFi** in three settings:zero-sho
 * python test_vua.py --bert_base_model_dir model_dir(the bert base model dir you downloaded)
     * e.g. python test_vua.py --bert_base_model_dir /home/model/bert-base-uncased
     
-* you can get the model we saved from [here](hhh)
+* you can get the model we saved from [here](https://drive.google.com/drive/folders/1iWrftTDH2If6UO9M-hmc13EwYP1FVfSJ?usp=sharing)
