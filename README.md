@@ -20,7 +20,7 @@ We also report the results on **MOH-X** and **TroFi** in three settings:zero-sho
 
 ## Run
 
-* Get the data from [here](https://drive.google.com/drive/folders/13_MRmZryGhCf8ngBs57oCMH9KD83ZImu?usp=sharing) and put it to the folder 'data'
+* Get the embeddings from [here](https://drive.google.com/drive/folders/13_MRmZryGhCf8ngBs57oCMH9KD83ZImu?usp=sharing) and put it to the folder 'data'
 
 * python main_vua.py --bert_base_model_dir model_dir(the bert base model dir you downloaded)
     * e.g. python main_vua.py --bert_base_model_dir /home/model/bert-base-uncased
