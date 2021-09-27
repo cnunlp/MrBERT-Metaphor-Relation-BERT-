@@ -31,3 +31,10 @@ We also report the results on **MOH-X** and **TroFi** in three settings:zero-sho
    * python test_vua.py
     
 * you can get the model we saved from [here](https://drive.google.com/drive/folders/1iWrftTDH2If6UO9M-hmc13EwYP1FVfSJ?usp=sharing)
+
+## Update
+
+* We update the integration strategy 'Average' to 'attention'. See the following two files for details:
+main_vua_extend.py, cosine_model.py
+
+* python main_vua_extend.py --bert_base_model_dir model_dir
