@@ -49,31 +49,19 @@ main_vua_extend.py, cosine_model.py
 ## Citation Information
 
 @inproceedings{song-etal-2021-verb,
-
     title = "Verb Metaphor Detection via Contextual Relation Learning",
-    
     author = "Song, Wei  and
       Zhou, Shuhui  and
       Fu, Ruiji  and
       Liu, Ting  and
-      Liu, Lizhen",
-      
+      Liu, Lizhen",      
     booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
-    
     month = aug,
-    
     year = "2021",
-    
     address = "Online",
-    
     publisher = "Association for Computational Linguistics",
-    
     url = "https://aclanthology.org/2021.acl-long.327",
-    
     doi = "10.18653/v1/2021.acl-long.327",
-    
     pages = "4240--4251",
-    
-    abstract = "Correct natural language understanding requires computers to distinguish the literal and metaphorical senses of a word. Recent neu- ral models achieve progress on verb metaphor detection by viewing it as sequence labeling. In this paper, we argue that it is appropriate to view this task as relation classification between a verb and its various contexts. We propose the Metaphor-relation BERT (Mr-BERT) model, which explicitly models the relation between a verb and its grammatical, sentential and semantic contexts. We evaluate our method on the VUA, MOH-X and TroFi datasets. Our method gets competitive results compared with state-of-the-art approaches.",
-    
+    abstract = "Correct natural language understanding requires computers to distinguish the literal and metaphorical senses of a word. Recent neu- ral models achieve progress on verb metaphor detection by viewing it as sequence labeling. In this paper, we argue that it is appropriate to view this task as relation classification between a verb and its various contexts. We propose the Metaphor-relation BERT (Mr-BERT) model, which explicitly models the relation between a verb and its grammatical, sentential and semantic contexts. We evaluate our method on the VUA, MOH-X and TroFi datasets. Our method gets competitive results compared with state-of-the-art approaches.",   
 }
