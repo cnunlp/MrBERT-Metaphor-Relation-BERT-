@@ -48,13 +48,10 @@ main_vua_extend.py, cosine_model.py
 
 ## Citation Information
 
-@inproceedings{song-etal-2021-verb,
-    title = "Verb Metaphor Detection via Contextual Relation Learning",
-    author = "Song, Wei  and
-      Zhou, Shuhui  and
-      Fu, Ruiji  and
-      Liu, Ting  and
-      Liu, Lizhen",      
+@inproceedings{song-etal-2021-verb,  
+    title = "Verb Metaphor Detection via Contextual Relation Learning",  
+    author = "Song, Wei  and Zhou, Shuhui  and Fu, Ruiji  and Liu, Ting  and
+Liu, Ting  and Liu, Lizhen", 
     booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
     month = aug,
     year = "2021",
