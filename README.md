@@ -1,6 +1,6 @@
 # MR-BERT (Metaphor-Relation BERT)
 
-This repository provides the codes and data for the paper accepted by ACL 2021: [Verb Metaphor Detection via Contextual Relation Learning](https://aclanthology.org/2021.acl-long.327/).
+This repository provides the codes and data for the paper published at ACL 2021: [Verb Metaphor Detection via Contextual Relation Learning](https://aclanthology.org/2021.acl-long.327/).
 
 ## The main idea
 The main idea of this paper is to view metaphor detection as a relation classification problem, i.e., the relation between a target verb and its various contexts.
