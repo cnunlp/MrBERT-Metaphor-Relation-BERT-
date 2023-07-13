@@ -1,4 +1,4 @@
-# MR-BERT (Metaphor-Relation BERT)
+# MR-BERT Metaphor-Relation BERT
 
 This repository provides the codes and data for the paper published at ACL 2021: [Verb Metaphor Detection via Contextual Relation Learning](https://aclanthology.org/2021.acl-long.327/).
 
